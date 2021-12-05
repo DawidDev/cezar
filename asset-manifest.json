@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cezar/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cezar/static/js/main.aaf53d1b.chunk.js",
+    "main.js.map": "/cezar/static/js/main.aaf53d1b.chunk.js.map",
+    "runtime-main.js": "/cezar/static/js/runtime-main.6ef2beff.js",
+    "runtime-main.js.map": "/cezar/static/js/runtime-main.6ef2beff.js.map",
+    "static/css/2.93238535.chunk.css": "/cezar/static/css/2.93238535.chunk.css",
+    "static/js/2.940ffa24.chunk.js": "/cezar/static/js/2.940ffa24.chunk.js",
+    "static/js/2.940ffa24.chunk.js.map": "/cezar/static/js/2.940ffa24.chunk.js.map",
+    "index.html": "/cezar/index.html",
+    "static/css/2.93238535.chunk.css.map": "/cezar/static/css/2.93238535.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/cezar/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.940ffa24.chunk.js.LICENSE.txt": "/cezar/static/js/2.940ffa24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef2beff.js",
+    "static/css/2.93238535.chunk.css",
+    "static/js/2.940ffa24.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.aaf53d1b.chunk.js"
+  ]
+}
