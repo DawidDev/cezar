@@ -5,12 +5,18 @@ import styled from "styled-components";
 
 import Visualization from "./Visualization";
 import FAQ from "./FAQ";
+import Footer from "./Footer";
 
 const Header = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 100%;
+  text-align: center;
+  margin: 40px 0;
+
+  h1 {
+    font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 10px;
+  }
 `;
 const MainContainer = styled.div`
   width: 100%;
@@ -72,7 +78,6 @@ const MainContainer = styled.div`
 
   @media (max-width: 767px) {
     flex-direction: column;
-    width: 90%;
     padding: 20px;
 
     .block_1,
@@ -135,7 +140,8 @@ const App = () => {
   return (
     <>
       <Header>
-        <h1>Szyfruj jak cezar</h1>
+        <h1>CEZAR</h1>
+        <p>APLIKACJA SZYFRUJĄCA</p>
       </Header>
       <MainContainer>
         <div className="block_1">
@@ -183,6 +189,7 @@ const App = () => {
         </div>
       </MainContainer>
       <FAQ />
+      <Footer />
     </>
   );
 };

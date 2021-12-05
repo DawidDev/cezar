@@ -7,6 +7,11 @@ const MainContainer = styled.div`
   margin-top: 50px;
   max-width: 800px;
   width: 80%;
+
+  @media (max-width: 767px) {
+    max-width: 100%;
+    width: 100%;
+  }
 `;
 
 const FAQ = () => {
