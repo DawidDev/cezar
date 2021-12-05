@@ -1,4 +1,4 @@
-## Cameraman page
+## Encryption app Cezar
 
 **Demo: [CEZAR PAGE](https://dawiddev.github.io/cezar/)** <br/>
 An application that allows you to encrypt and decrypt text using the Caesar encryption method
